@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Isaac_Elsa/Library/Application Support/Terraria/ModLoader/Mod Sources/ScuffedTerraria/ScuffedTerraria.csproj": {}
+  },
+  "projects": {
+    "/Users/Isaac_Elsa/Library/Application Support/Terraria/ModLoader/Mod Sources/ScuffedTerraria/ScuffedTerraria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Isaac_Elsa/Library/Application Support/Terraria/ModLoader/Mod Sources/ScuffedTerraria/ScuffedTerraria.csproj",
+        "projectName": "ScuffedTerraria",
+        "projectPath": "/Users/Isaac_Elsa/Library/Application Support/Terraria/ModLoader/Mod Sources/ScuffedTerraria/ScuffedTerraria.csproj",
+        "packagesPath": "/Users/Isaac_Elsa/.nuget/packages/",
+        "outputPath": "/Users/Isaac_Elsa/Library/Application Support/Terraria/ModLoader/Mod Sources/ScuffedTerraria/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Isaac_Elsa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
