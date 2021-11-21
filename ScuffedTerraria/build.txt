@@ -1,3 +1,0 @@
-displayName = Scuffed Terraria
-author = Xuxixo
-version = 1.0.1
